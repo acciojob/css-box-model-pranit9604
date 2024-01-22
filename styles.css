@@ -1,9 +1,9 @@
 #box{
 	box-sizing : content-box;
 	width: 300px !important;
-	max-width : 300px !important;
-	background-color : rgb(173,216,230);
+    max-width : 300px !important;
+	background-color : lightblue;
 	border: 15px solid  rgb(0,0,255);
-	padding :50 px;
-	margin: 20 px;
+	padding :  50px;
+	margin: 20px;
 }
